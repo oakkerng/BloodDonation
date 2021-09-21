@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "747529064547",
+    "firebase_url": "https://covidadmin-16ce9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "covidadmin-16ce9",
+    "storage_bucket": "covidadmin-16ce9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747529064547:android:0875b51f5b3fe2f52c6856",
+        "android_client_info": {
+          "package_name": "com.delo.blood_don"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747529064547-s014q4am0cneo95af4udb3tadm5ppvqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxGwD5kJrC2WfZRL_4-WwCC4jA6fXFNXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747529064547-s014q4am0cneo95af4udb3tadm5ppvqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
